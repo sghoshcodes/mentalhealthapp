@@ -1,1 +1,1 @@
-hello
+Hello, this is a personal project that focuses on detecting change in mood 
